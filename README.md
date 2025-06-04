@@ -7,5 +7,5 @@ It compares each character with the previous one.
 
 If it’s different, it appends it to the result.
 
-This efficiently removes only consecutive duplicates (not all duplicates).
+This efficiently removes only consecutive duplicates (not all duplicates)....
 
